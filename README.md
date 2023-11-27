@@ -7,7 +7,7 @@
 그중, 웹 관리자 페이지에 대한 설명입니다.
 관리자 페이지의 로그인 화면입니다. 
 
-<img src="https://github.com/wnal4634/cookkit_php/assets/90739311/504e837e-6eca-4b01-990f-05255e4a21ed" width="150"/> <br/><br/>
+<img src="https://github.com/wnal4634/cookkit_php/assets/90739311/504e837e-6eca-4b01-990f-05255e4a21ed" height="150"/> <br/><br/>
 
 
 로그인 이후에 상단바에서 유저와 레시피, 공지사항, 밀키트 구매자, 투표 목록을 확인할 수 있고,
